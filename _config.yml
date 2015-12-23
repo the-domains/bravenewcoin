@@ -2,6 +2,7 @@ name: BraveNewCoin
 favicon: null
 layout_spectrum: 0.5076
 typography_spectrum: 0.2208
+title: Brave New Coin
 cta:
   domain: null
   bucket: null
